@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'https://github.com/folakemi10/codePath-to-do/blob/master/simple.todo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'https://github.com/folakemi10/codePath-to-do/blob/e83285b652eb23c70fd9d0cb7812aa0a6bfa5c8f/todo.walkThrough.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
