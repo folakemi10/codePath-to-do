@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-I made a syntax error (used the wrong key) when i was implementing the update functionality and it took me a few hours to figure out why the text wasn't updating. It was also my first time using android studio so I had to figure out how to add a gif to my file on windows and push my code to Git hub. I also had a little problem with file.utils foud out that i needed to implement common.io 2.6 instead of the newer model in my build.gradle.
+I made a syntax error (used the wrong key) when i was implementing the update functionality and it took me a few hours to figure out why the text wasn't updating. It was also my first time using android studio so I had to figure out how to add a gif to my file on windows and push my code to Git hub. I also had a little problem with file utils foud out that i needed to implement common.io 2.6 instead of the newer model in my build.gradle for it to function.
 
 ## License
 
